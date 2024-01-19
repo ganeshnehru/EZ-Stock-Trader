@@ -1,0 +1,91 @@
+.header{
+    width: 100%;
+    /* line-height: 80px; */
+    height: 150px;
+}
+.headerRow.row{
+    margin-bottom: 0px !important;
+}
+.loginButtons{
+padding-left: 10%;
+margin-bottom:0px !important;
+}
+
+.divContainer{
+    margin-bottom:0px !important;
+}
+
+.logo img{
+    width: 200px;
+}
+
+.menu{
+    margin-bottom:0
+}
+
+.nav_item a{
+    text-decoration: none;
+    color: var(--heading-color);
+    font-weight:500;
+    font-size: 1.1 rem;
+}
+.nav_item a:hover{
+    color: inherit;
+}
+
+.nav_item a.active_link{
+    color: rgb(0, 8, 187);
+}
+
+.mobile_menu{
+ font-size: 1.3 rem;
+ color: var(--heading-color);
+ display: none;
+}
+.sticky_header{
+    width:100%;
+    height:80px;
+    line-height: 80px;
+    background:white;
+    position:sticky;
+    top:0;
+    left: 0;
+}
+
+.marketWatchLink,
+.stockProjectionsLink,
+.aboutLink {
+  color: #000; }
+
+  .dark-font {
+    color: #000; /* Set your desired dark font color */
+  }
+
+
+  .white-link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+
+  .white-link:hover {
+    color: white;
+  }
+
+  .active_link{
+    color: blue !important;
+  }
+
+  .fancy_Button {
+    text-decoration: none;
+    background-color: #4caf50; /* Green background color */
+    color: black; /* White text color */
+    padding: 10px 20px; /* Padding */
+    border-radius: 5px; /* Rounded corners */
+    border: none; /* No border */
+    cursor: pointer; /* Cursor style */
+    transition: background-color 0.3s; /* Smooth color transition on hover */
+  }
+
+  .fancy-button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
