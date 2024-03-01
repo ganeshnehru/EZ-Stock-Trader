@@ -1,4 +1,4 @@
-# AI Stock Forecasting System
+# EZ Stock Trader
 # Introduction
 Trading stocks can be a great way for individuals to make money by buying and selling stocks. However, the practice of trading stocks comes with a high level of risks, in the sense of losing money. This is primarily due to the stock market’s volatile nature. For example, there is a high probability that inexperienced stock traders to lose money, rather than making profit. Making a wrong investment can lead an individual to lose capital, damage their reputation, as well as cause an enormous amount of stress.
 <br />
